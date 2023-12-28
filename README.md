@@ -3,7 +3,7 @@
 Project from Code Institute
 ![screenshot](docs/readme/mockup.png)
 
-![Float chart](docs\readme\float-chart.png)
+![Float chart](docs/readme/float-chart.png)
 ## Creating the Heroku app
 
 When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
