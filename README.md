@@ -1,3 +1,8 @@
+# [Love Sandwiches](https://get-sandwiches-db134f3fecbe.herokuapp.com)
+
+Project from Code Institute
+![screenshot](docs/readme/mockup.png)
+
 ![Float chart](docs\readme\float-chart.png)
 ## Creating the Heroku app
 
